@@ -32,6 +32,8 @@ main {
 select, p, input, button {
     margin-top: 1vh;
     text-align: center;
+    min-width: 100px;
+    max-width: auto;
 }
 
 select, button {
